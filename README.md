@@ -11,12 +11,15 @@ This repository is  the initial stage of a Python implementation for an AirBnB c
 ## Project Stages
 
 **Stage 1: Console Development**
+
 This initial stage involves the development of the command-line interpreter to manage AirBnB objects, serving as the foundation for the project.
 
 **Stage 2: Static Page Development**
+
 In the second stage, the project involves creating static pages essential for the AirBnB website to enhance the user interface and experience.
 
 **Future Stages:**
+
 Subsequent stages will focus on further enhancing functionality, integrating backend and frontend components, and achieving a fully functional AirBnB clone.
 
 ---
