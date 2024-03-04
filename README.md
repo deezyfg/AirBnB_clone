@@ -44,7 +44,7 @@ Subsequent stages will focus on further enhancing functionality, integrating bac
     - [7. Console 0.1](#7-console-01)
     - [8. First User](#8-first-user)
     - [9. More classes!](#9-more-classes)
-    - [10. Console 1.0]((#10-console-10)
+    - [10. Console 1.0](#10-console-10)
     - [11. All instances by class name](#11-all-instances-by-class-name)
     - [12. Count instances](#12-count-instances)
     - [13. Show](#13-show)
