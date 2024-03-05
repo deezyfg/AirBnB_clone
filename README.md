@@ -66,28 +66,36 @@ For this project, we expect you to look at these concepts:
 <details>
   <summary><a href="#python-packages"><strong>Python packages</strong></a></summary><br>
 
+  <!-- Image 1 -->
   <div align="center">
-    <!-- Image 1 -->
     <a href='https://postimages.org/' target='_blank'>
       <img src='https://i.postimg.cc/vmHjp9Sz/Python-packages-image1.png' border='0' alt='image' style="max-width: 100%;">
     </a>
+  </div>
 
-    <!-- Image 2 -->
+  <!-- Image 2 -->
+  <div align="center">
     <a href='https://postimages.org/' target='_blank'>
       <img src='https://i.postimg.cc/261t5YYL/Python-packages-image2.png' border='0' alt='image' style="max-width: 100%;">
     </a>
+  </div>
 
-    <!-- Image 3 -->
+  <!-- Image 3 -->
+  <div align="center">
     <a href='https://postimages.org/' target='_blank'>
       <img src='https://i.postimg.cc/dVFgjg2g/Python-packages-image3.png' border='0' alt='image' style="max-width: 100%;">
     </a>
+  </div>
 
-    <!-- Image 4 -->
+  <!-- Image 4 -->
+  <div align="center">
     <a href='https://postimages.org/' target='_blank'>
       <img src='https://i.postimg.cc/T3cF7QQ1/Python-packages-image4.png' border='0' alt='image' style="max-width: 100%;">
     </a>
+  </div>
 
-    <!-- Image 5 -->
+  <!-- Image 5 -->
+  <div align="center">
     <a href='https://postimages.org/' target='_blank'>
       <img src='https://i.postimg.cc/HxFhcNWZ/Python-packages-image5.png' border='0' alt='image' style="max-width: 100%;">
     </a>
