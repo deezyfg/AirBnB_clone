@@ -129,100 +129,100 @@ For this project, we expect you to look at these concepts:
     </a>
   </div>
 
-    <!-- Image 3 -->
-    <div align="center">
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/50JrysdV/Air-Bn-B-clone-image3.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 1: The console</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 4 -->
-    <div align="center">
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/K8wh56wr/Air-Bn-B-clone-image4.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 2: Web static</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 5 -->
-    <div align="center">
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/JzGWZr6z/Air-Bn-B-clone-image5.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 3: MySQL storage</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 6 -->
-    <div>
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/KzyX6nZ1/Air-Bn-B-clone-image6.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 4: Web framework - templating</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 7 -->
-    <div align="center">
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/FKS5CPQt/Air-Bn-B-clone-image7.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 5: RESTful API</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 8 -->
-    <div align="center">
-      <figure>
-        <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/Pr6jCpM7/Air-Bn-B-clone-image8.png' border='0' alt='image' style="max-width: 100%;">
-        </a>
-        <figcaption>Step 6: Web dynamic</figcaption>
-      </figure>
-    </div>
-
-    <!-- Image 9 -->
-    <div align="center">
+  <!-- Image 3 -->
+  <div align="center">
+    <figure>
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/4dHf1cz8/Air-Bn-B-clone-image9.png' border='0' alt='image' style="max-width: 100%;">
+        <img src='https://i.postimg.cc/50JrysdV/Air-Bn-B-clone-image3.png' border='0' alt='image' style="max-width: 100%;">
       </a>
-    </div>
+      <figcaption>Step 1: The console</figcaption>
+    </figure>
+  </div>
 
-    <!-- Image 10 -->
-    <div align="center">
+  <!-- Image 4 -->
+  <div align="center">
+    <figure>
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/7hvxtL9q/Air-Bn-B-clone-image10.png' border='0' alt='image' style="max-width: 100%;">
+        <img src='https://i.postimg.cc/K8wh56wr/Air-Bn-B-clone-image4.png' border='0' alt='image' style="max-width: 100%;">
       </a>
-    </div>
+      <figcaption>Step 2: Web static</figcaption>
+    </figure>
+  </div>
 
-    <!-- Image 11 -->
-    <div align="center">
+  <!-- Image 5 -->
+  <div align="center">
+    <figure>
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/FzjhMQC3/Air-Bn-B-clone-image11.png' border='0' alt='image' style="max-width: 100%;">
+        <img src='https://i.postimg.cc/JzGWZr6z/Air-Bn-B-clone-image5.png' border='0' alt='image' style="max-width: 100%;">
       </a>
-    </div>
+      <figcaption>Step 3: MySQL storage</figcaption>
+    </figure>
+  </div>
 
-    <!-- Image 12 -->
-    <div align="center">
+  <!-- Image 6 -->
+  <div>
+    <figure>
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/tgMRPkVZ/Air-Bn-B-clone-image12.png' border='0' alt='image' style="max-width: 100%;">
+        <img src='https://i.postimg.cc/KzyX6nZ1/Air-Bn-B-clone-image6.png' border='0' alt='image' style="max-width: 100%;">
       </a>
-    </div>
+      <figcaption>Step 4: Web framework - templating</figcaption>
+    </figure>
+  </div>
 
-    <!-- Image 13 -->
-    <div align="center">
+  <!-- Image 7 -->
+  <div align="center">
+    <figure>
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/PfZfpmfJ/Air-Bn-B-clone-image13.png' border='0' alt='image' style="max-width: 100%;">
+        <img src='https://i.postimg.cc/FKS5CPQt/Air-Bn-B-clone-image7.png' border='0' alt='image' style="max-width: 100%;">
       </a>
-    </div>
+      <figcaption>Step 5: RESTful API</figcaption>
+    </figure>
+  </div>
+
+  <!-- Image 8 -->
+  <div align="center">
+    <figure>
+      <a href='https://postimages.org/' target='_blank'>
+        <img src='https://i.postimg.cc/Pr6jCpM7/Air-Bn-B-clone-image8.png' border='0' alt='image' style="max-width: 100%;">
+      </a>
+      <figcaption>Step 6: Web dynamic</figcaption>
+    </figure>
+  </div>
+
+  <!-- Image 9 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/4dHf1cz8/Air-Bn-B-clone-image9.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
+
+  <!-- Image 10 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/7hvxtL9q/Air-Bn-B-clone-image10.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
+
+  <!-- Image 11 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/FzjhMQC3/Air-Bn-B-clone-image11.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
+
+  <!-- Image 12 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/tgMRPkVZ/Air-Bn-B-clone-image12.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
+
+  <!-- Image 13 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/PfZfpmfJ/Air-Bn-B-clone-image13.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
   <!-- Links for Screenshot -->
   <ul>
@@ -433,57 +433,57 @@ All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest
 <details>
   <summary><a href="#3-Base-Model"><strong>3. BaseModel</strong></a></summary><br>
 
-    <!-- Image 1 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/yNWqcS9k/3-Base-Model.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 1 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/yNWqcS9k/3-Base-Model.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
-    <!-- Image 2 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/9QL5DBD6/3-Base-Model-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 2 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/9QL5DBD6/3-Base-Model-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 </details>
 
 
 <details>
   <summary><a href="#4-Create-Base-Model-from-dictionary"><strong>4. Create BaseModel from dictionary</strong></a></summary><br>
 
-    <!-- Image 1 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/q7Jg2QM4/4-Create-Base-Model-from-dictionary.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 1 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/q7Jg2QM4/4-Create-Base-Model-from-dictionary.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
-    <!-- Image 2 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/dtC7FLxP/4-Create-Base-Model-from-dictionary-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 2 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/dtC7FLxP/4-Create-Base-Model-from-dictionary-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 </details>
 
 
 <details>
   <summary><a href="#5-Store-first-object"><strong>5. Store first object</strong></a></summary><br>
 
-    <!-- Image 1 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/vmjwtRJr/5-Store-first-object.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 1 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/vmjwtRJr/5-Store-first-object.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
-    <!-- Image 2 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/YCdHjL8y/5-Store-first-object-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 2 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/YCdHjL8y/5-Store-first-object-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 </details>
 
 
@@ -500,38 +500,38 @@ All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest
 <details>
   <summary><a href="#7-Console-0-1"><strong>7. Console 0.1</strong></a></summary><br>
 
-    <!-- Image 1 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/L4Zctb6S/7-Console-0-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 1 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/L4Zctb6S/7-Console-0-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
-    <!-- Image 2 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/gJxfBMVv/7-Console-0-1-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 2 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/gJxfBMVv/7-Console-0-1-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 </details>
 
 
 <details>
   <summary><a href="#8-First-User"><strong>8. First User</strong></a></summary><br>
 
-    <!-- Image 1 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/nLRy28DF/8-First-User.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 1 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/nLRy28DF/8-First-User.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 
-    <!-- Image 2 -->
-    <div align="center">
-      <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/T1mBTpH1/8-First-User-1.png' border='0' alt='image' style="max-width: 100%;">
-      </a>
-    </div>
+  <!-- Image 2 -->
+  <div align="center">
+    <a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/T1mBTpH1/8-First-User-1.png' border='0' alt='image' style="max-width: 100%;">
+    </a>
+  </div>
 </details>
 
 
