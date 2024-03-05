@@ -101,8 +101,6 @@ For this project, we expect you to look at these concepts:
       </ul>
     </li>
   </ul>
-  </div>
-
 </details>
 
 
