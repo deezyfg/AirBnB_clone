@@ -29,6 +29,7 @@ classes = {
     "Review": Review
 }
 
+
 class HBNBCommand(cmd.Cmd):
     """AirBnB clone console"""
 
