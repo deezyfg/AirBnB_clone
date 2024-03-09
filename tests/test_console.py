@@ -14,7 +14,6 @@ from console import HBNBCommand
 
 class TestConsole(unittest.TestCase):
     """Tests the console app"""
-
     @classmethod
     def setUpClass(cls) -> None:
         """sets up the test console"""
@@ -25,12 +24,6 @@ class TestConsole(unittest.TestCase):
         """removes the file.json temporary file"""
         if os.path.exists('file.json'):
             os.remove('file.json')
-
-    def assertConsoleOutput(self, command, expected_output):
-        """Helper function to assert console output"""
-        with patch('sys.stdout', new=StringIO()) as output:
-            self.cmd.onecmd(command)
-            self.assertEqual(expected_output, output.getvalue())
 
     def test_create_prints_class_name_error(self):
         """tests the create command class name error"""
