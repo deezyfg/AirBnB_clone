@@ -245,7 +245,7 @@ Requirements:
        - styles/4-filters.css: for the filters style
    * 4-index.html won’t be W3C valid, don’t worry, it’s temporary
 
-![Image](https://i.postimg.cc/C1mYwZg4/image.png)
+![Image](https://i.postimg.cc/fTD3Lt1Q/image4.png)
 
 **File:** [4-index.html](4-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/4-filters.css](styles/4-filters.css), [images/](images/)
 
@@ -284,7 +284,7 @@ You must have 4 CSS files:
        - `styles/3-footer.css`: for the footer style
        - `styles/5-filters.css`: for the filters style
 
-![Image}(https://i.postimg.cc/c4YDypZD/image.png)
+![Image}(https://i.postimg.cc/prGtR6gT/image5.png)
 
 **File:** [5-index.html](5-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/5-filters.css](styles/5-filters.css), [images/](images/)
 
@@ -320,7 +320,8 @@ Requirements:
        - `styles/3-footer.css`: for the footer style
        - `styles/6-filters.css`: for the filters style
 
-![Image](https://i.postimg.cc/vHz0ZWg9/image.png)
+![Image](https://i.postimg.cc/pXStS3fc/image6.png)
+![Image](https://i.postimg.cc/dQ4F2hLY/image6-1.png)
 
 **File:** [6-index.html](6-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [images/](images/)
 
@@ -363,7 +364,7 @@ Requirements:
        - `styles/6-filters.css`: for the filters style
        - `styles/7-places.css`: for the places style
 
-![Image](https://i.postimg.cc/xCWYFwyv/image.png)
+![Image](https://i.postimg.cc/bNrh3qt2/image7.png)
 
 **File:** [7-index.html](7-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/7-places.css](styles/7-places.css), [images/](images/)
 
@@ -431,7 +432,7 @@ Requirements:
        - `styles/6-filters.css`: for the filters style
        - `styles/8-places.css`: for the places style
 
-![Image](https://i.postimg.cc/mDqMpg5m/image.png)
+![Image](https://i.postimg.cc/9QqjH11m/image8.png)
 
 **File:** [8-index.html](8-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/8-places.css](styles/8-places.css), [images/](images/)
 
@@ -490,7 +491,7 @@ Requirements:
        - `styles/6-filters.css`: for the filters style
        - `styles/100-places.css`: for the places style
 
-![Image](https://i.postimg.cc/qvbFZK2s/image.png)
+![Image](https://i.postimg.cc/1zh1m6Yp/image9.png)
 
 **File:** [100-index.html](100-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/100-places.css](styles/100-places.css), [images/](images/)
  
